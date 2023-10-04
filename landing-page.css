@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+}
+.main-name{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.total-year{
+    color: white;
+    text-align: center;
+}
+.pause-btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border: white 5px solid;
+}
+
+.bgc-white{
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 500px;
+    width: 100%;
+}
+.steve-job{
+    position: absolute;
+    right: 0;
+}
+
+.steve-job{
+    height: 500px;
+}
+
+.quote{
+   font-size: 30px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   position: absolute;
+   top: 150px;
+   left: 200px;
+   margin: 5px;
+   line-height: 45px;
+}
+.bio-heading{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 50px;
+    font-size: 60px;   
+ }
+
+ .info{
+    color: white;text-align: center;
+    position: relative;
+    top: 70px;
+    text-align: justify;
+    margin-left: 800px;
+    line-height: 30px;
+    font-size: 25px;
+   
+ }
+ .last-line{
+    position: relative;
+    top: 90px;
+    width: 90%;
+ }
+
+
+ 
